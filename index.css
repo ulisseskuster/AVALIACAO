@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box; 
+  }
+  html {
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+  }
+  div{
+      text-align: center;
+      align-items: center;
+      justify-content: space-between;
+  }
+  body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to bottom, #81effd, rgb(196, 70, 221) );
+    justify-content: center;
+  }
+  .foto1{
+    justify-content: center;
+    width: 480px;
+  }
+  .titulo{
+  
+    text-align: center;}
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px; 
+    text-align: justify;
+  }
+
+  .footer-container {
+  background-color: #552cc3;
+  padding: 20px; 
+}
+  .fonte2{
+    scale: 50px;
+    padding: 20px;
+    color: aliceblue;
+  }
